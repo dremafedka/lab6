@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+h3 {
+    font-size: 2rem;
+}
+    
+.wrapper{
+    display: flex;
+    width: 100%;
+    align-items: start;
+    flex-direction: column;
+    justify-content: start;
+}
